@@ -13,6 +13,7 @@
 
     <modules>
         <module>resource-resolver2</module>
+        <module>property-resolver</module>
     </modules>
 
     <properties>
